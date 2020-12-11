@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Praktika</string>
+    <string name="save">Сохранить</string>
+    <string name="nameHint">nameHint</string>
+    <string name="stateHint">Статус</string>
+    <string name="ageHint">Возраст</string>
+</resources>
